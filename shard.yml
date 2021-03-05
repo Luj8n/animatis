@@ -1,0 +1,19 @@
+name: animatis
+version: 0.1.0
+
+dependencies:
+  crsfml:
+    github: oprypin/crsfml
+    version: ~> 2.5.2
+
+authors:
+  - Luj8n <l.milieska@gmail.com>
+
+crystal: 0.36.1
+
+repository: "https://github.com/Luj8n/animatis"
+
+license: MIT
+
+description: |
+  TODO
